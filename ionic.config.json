@@ -1,6 +1,6 @@
 {
   "name": "stocks",
-  "app_id": "",
+  "app_id": "8a804417",
   "gulpStartupTasks": [
     "sass",
     "watch"
